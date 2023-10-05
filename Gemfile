@@ -40,7 +40,7 @@ gem 'exercism-config', '>= 0.94.0' # path: '../exercism_config'
 # Model-level dependencies
 gem 'image_processing', '~> 1.2'
 gem 'friendly_id', '~> 5.4.0'
-gem 'sidekiq', '~> 6.3'
+gem 'sidekiq', '~> 6.5'
 gem 'sidekiq-failures'
 gem 'sidekiq-scheduler'
 
